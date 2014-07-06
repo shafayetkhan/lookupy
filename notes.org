@@ -1,0 +1,9 @@
+* Installation Issues
+  - matplotlib:
+    -
+        http://www.thisisthegreenroom.com/2011/installing-python-numpy-scipy-matplotlib-and-ipython-on-lion/
+    - brew install freetype
+    - brew install libpng
+    - pip install
+      git+https://github.com/matplotlib/matplotlib.git#egg=matplotlib-dev
+    - https://stackoverflow.com/questions/12363557/matplotlib-install-failure-on-mac-osx-10-8-mountain-lion
